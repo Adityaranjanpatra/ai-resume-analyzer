@@ -3,8 +3,8 @@ import { Welcome } from "../welcome/welcome";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "InsightResume" },
+    { name: "description", content: "InsightResume is an AI-powered tool that analyzes resumes to extract key information and provide actionable feedback for improved hiring outcomes." },
   ];
 }
 
